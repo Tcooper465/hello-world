@@ -1,2 +1,6 @@
 # hello-world
-Project repository
+
+Hello,
+
+This is the first repository I have ever worked on.
+
